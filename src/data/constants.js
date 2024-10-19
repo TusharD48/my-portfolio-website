@@ -19,7 +19,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/TusharD48",
     resume:
-      "https://drive.google.com/file/d/1qFp1yrrsdb6Ml7fFxuWqIn82bs8-muRn/view?usp=drive_link",
+      "https://drive.google.com/file/d/10p7i7yc-ExOioV_iF1ZG1ckUeOr3iqPX/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/tushar-dupare-b0ba75155/",
     HackerRank: "https://www.hackerrank.com/profile/tushardupare26",
     insta: "https://www.instagram.com/_tusharrrr08/",
@@ -242,10 +242,10 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+      img: "https://nedient.co.in/static/website/assets/img/logo/nedient.png",
       role: "Data Science Intern",
-      company: "Flipr Innovations Pvt. Ltd.",
-      date: "Aug 2023 - July 2023",
+      company: "Nedient Technology Pvt. Ltd.",
+      date: "Apr 2024 - Sept 2024",
       desc: "Worked on developing and deploying machine learning models for predictive analytics. Managed data pipelines and automated ETL processes.",
       skills: [
         "Python",
@@ -257,16 +257,15 @@ export const Bio = {
         "SQL",
         "AWS",
         "Docker",
-      ],
-      doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+      ]
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+      img: "https://spinnakerwebsiteassets.s3.amazonaws.com/spinnakeranalytics.com/images/logo/spinnaker-analytics-icon-white.webp",
       role: "Data Analyst Intern",
-      company: "Neurobit",
-      date: "June 2023 - Present",
-      desc: "Performed data cleaning, analysis, and visualization to derive insights from healthcare data. Assisted in building dashboards and reports.",
+      company: "Spinnaker Analytics",
+      date: "Aug 2024 - Present",
+      desc: "Performed data cleaning, analysis, and visualization to derive insights from automobile data. Assisted in building dashboards and reports.",
       skills: [
         "Python",
         "SQL",
@@ -277,26 +276,7 @@ export const Bio = {
         "Seaborn",
         "Matplotlib",
       ],
-      doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-    },
-    {
-      id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-      role: "Machine Learning Externship",
-      company: "Flipr",
-      date: "June 2023 - July 2023",
-      desc: "Developed machine learning models for customer segmentation and predictive maintenance. Deployed models using Docker and AWS EC2.",
-      skills: [
-        "Python",
-        "Scikit-Learn",
-        "TensorFlow",
-        "Keras",
-        "AWS",
-        "Docker",
-        "Pandas",
-        "NumPy",
-        "SQL",
-      ],
+      // doc: "https://firebasestorage.googleapis.com/v0b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
     },
     {
       id: 3,
